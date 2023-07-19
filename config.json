@@ -1,0 +1,15 @@
+{
+    "web_server": {
+        "address": "localhost",
+        "port": 8080
+    },
+    "database": {
+        "address": "localhost",
+        "port": 8000,
+        "username": "root",
+        "password": "root"
+    },
+    "secrets": {
+        "jwt": "ChangeThisSecret"
+    }
+}
